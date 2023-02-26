@@ -1,2 +1,2 @@
 # Data-Structure-And-Algorithms-Projects
-College projects and excercises using advanced algorithms and data structures
+College projects and exercises using advanced algorithms and data structures
