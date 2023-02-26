@@ -1,0 +1,9 @@
+Equipo:
+David Román Velasco A01639645 - Algoritmo Dijkstra
+Paulina Lizet Gutiérrez Amezcua A01639948 - Algoritmo Backtracking
+Juan Pablo Garcia Malta A01639025 - Algoritmo Floyd
+
+Algoritmo Polígono Convexo - Todos
+Reflexión - Todos
+
+Durante todos los algoritmos nos apoyamos entre todos para lograr la solución.

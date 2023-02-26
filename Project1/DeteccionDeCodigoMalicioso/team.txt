@@ -1,0 +1,6 @@
+David Román Velasco A01639645
+Paulina Lizet Gutiérrez Amezcua A01639948
+Juan Pablo García Malta A01639025
+
+Trabajo:
+Para la distribución de trabajo cada quien busco diferentes algoritmos de búsqueda y al final David Román encontro que el algoritmo KMP era lo más eficiente y nos reunimos a hacer la base. David Román se encargo de la primera parte de la actividad que fue detección de malware en transmisiones. Juan Pablo Malta se encargo de la parte 2 de encontrar palindromos en los archivos y Paulina Gutiérrez se encargo de la parte 3 de encontrar el substring común más largo de los archivos de transmisión. Cada uno fue responsable de documentar sus partes, tener limpio el código y constantemente nos apoyabamos en todas las áreas. Al final todos hicimos la reflexión de los algoritmos que utilizamos.
